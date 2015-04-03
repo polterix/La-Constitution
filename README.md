@@ -1,7 +1,7 @@
 La Constitution
 ===============
 
-Ce dC)pC4t de la Constitution FranC'aise permet C  tout un chacun de consulter, modifier (_fork_) et proposer leurs changements (_Pull Request_) qui seront examinC)s systC)matiquement par les instances lC)gislatives de la RC)publique FranC'aise. Ces derniC(res mettront en place dans les plus brefs dC)lais un systC(me de validation par les citoyens (_peers_) afin de pouvoir rC)pondre C  toutes les demandes. Nous travaillons de concert avec l'C)quipe de Github pour rendre l'interface de cette plateforme disponible en FranC'ais.
+Ce dépôt de la Constitution FranC'aise permet C  tout un chacun de consulter, modifier (_fork_) et proposer leurs changements (_Pull Request_) qui seront examinC)s systC)matiquement par les instances lC)gislatives de la RC)publique FranC'aise. Ces derniC(res mettront en place dans les plus brefs dC)lais un systC(me de validation par les citoyens (_peers_) afin de pouvoir rC)pondre C  toutes les demandes. Nous travaillons de concert avec l'C)quipe de Github pour rendre l'interface de cette plateforme disponible en FranC'ais.
 
 
 Le Projet
